@@ -162,12 +162,12 @@ Carefull은 보호자 계정(`members`)을 기준으로 환자(`patients`)를 �
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img width="100" height="100" alt="장철영" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%EC%9E%A5%EC%B2%A0%EC%98%81_hwc007.png)" /></td>
-    <td align="center"><img width="100" height="100" alt="윤현우" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637821/%EC%9C%A4%ED%98%84%EC%9A%B0_sldtq3.jpg)" /></td>
-    <td align="center"><img width="100" height="100" alt="황수영" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%ED%99%A9%EC%88%98%EC%98%81_bjovqm.jpg)" /></td>
-    <td align="center"><img width="100" height="100" alt="오형석" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%EC%98%A4%ED%98%95%EC%84%9D_aoothj.png)" /></td>
-    <td align="center"><img width="100" height="100" alt="선범수" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637734/%EC%84%A0%EB%B2%94%EC%88%98_ghrc7t.jpg)" /></td>
-    <td align="center"><img width="100" height="100" alt="장일선" src="[https://via.placeholder.com/100](https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637733/%EC%9E%A5%EC%9D%BC%EC%84%A0_uji3by.png)" /></td>
+    <td align="center"><img width="100" height="100" alt="장철영" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%EC%9E%A5%EC%B2%A0%EC%98%81_hwc007.png" /></td>
+    <td align="center"><img width="100" height="100" alt="윤현우" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637821/%EC%9C%A4%ED%98%84%EC%9A%B0_sldtq3.jpg" /></td>
+    <td align="center"><img width="100" height="100" alt="황수영" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%ED%99%A9%EC%88%98%EC%98%81_bjovqm.jpg" /></td>
+    <td align="center"><img width="100" height="100" alt="오형석" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637735/%EC%98%A4%ED%98%95%EC%84%9D_aoothj.png" /></td>
+    <td align="center"><img width="100" height="100" alt="선범수" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637734/%EC%84%A0%EB%B2%94%EC%88%98_ghrc7t.jpg" /></td>
+    <td align="center"><img width="100" height="100" alt="장일선" src="https://res.cloudinary.com/dsv1e4rja/image/upload/v1778637733/%EC%9E%A5%EC%9D%BC%EC%84%A0_uji3by.png" /></td>
   </tr>
   <tr>
     <td align="center"><strong>장철영</strong></td>
